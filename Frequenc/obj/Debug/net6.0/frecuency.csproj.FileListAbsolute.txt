@@ -1,0 +1,15 @@
+/Users/alfonsoridao/Projects/RiderProjects/ConsoleApp1/frecuency/bin/Debug/net6.0/frecuency
+/Users/alfonsoridao/Projects/RiderProjects/ConsoleApp1/frecuency/bin/Debug/net6.0/frecuency.deps.json
+/Users/alfonsoridao/Projects/RiderProjects/ConsoleApp1/frecuency/bin/Debug/net6.0/frecuency.runtimeconfig.json
+/Users/alfonsoridao/Projects/RiderProjects/ConsoleApp1/frecuency/bin/Debug/net6.0/frecuency.dll
+/Users/alfonsoridao/Projects/RiderProjects/ConsoleApp1/frecuency/bin/Debug/net6.0/ref/frecuency.dll
+/Users/alfonsoridao/Projects/RiderProjects/ConsoleApp1/frecuency/bin/Debug/net6.0/frecuency.pdb
+/Users/alfonsoridao/Projects/RiderProjects/ConsoleApp1/frecuency/obj/Debug/net6.0/frecuency.csproj.AssemblyReference.cache
+/Users/alfonsoridao/Projects/RiderProjects/ConsoleApp1/frecuency/obj/Debug/net6.0/frecuency.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alfonsoridao/Projects/RiderProjects/ConsoleApp1/frecuency/obj/Debug/net6.0/frecuency.AssemblyInfoInputs.cache
+/Users/alfonsoridao/Projects/RiderProjects/ConsoleApp1/frecuency/obj/Debug/net6.0/frecuency.AssemblyInfo.cs
+/Users/alfonsoridao/Projects/RiderProjects/ConsoleApp1/frecuency/obj/Debug/net6.0/frecuency.csproj.CoreCompileInputs.cache
+/Users/alfonsoridao/Projects/RiderProjects/ConsoleApp1/frecuency/obj/Debug/net6.0/frecuency.dll
+/Users/alfonsoridao/Projects/RiderProjects/ConsoleApp1/frecuency/obj/Debug/net6.0/ref/frecuency.dll
+/Users/alfonsoridao/Projects/RiderProjects/ConsoleApp1/frecuency/obj/Debug/net6.0/frecuency.pdb
+/Users/alfonsoridao/Projects/RiderProjects/ConsoleApp1/frecuency/obj/Debug/net6.0/frecuency.genruntimeconfig.cache
